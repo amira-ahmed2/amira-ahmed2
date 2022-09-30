@@ -3,7 +3,7 @@
 A passionate frontend developer from Egypt
 
 
-🌱 I’m currently learning React, Redux
+🌱 I’m currently learning Angular
 
 📫 How to reach amiraamin166@gmail.com
 
