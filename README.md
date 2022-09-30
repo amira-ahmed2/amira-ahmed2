@@ -1,5 +1,5 @@
-								👋 Hi, I’m Amira Ahmed 
-							 A passionate frontend developer from Egypt
+👋 Hi, I’m Amira Ahmed 
+A passionate frontend developer from Egypt
 
 
 🌱 I’m currently learning React, Redux
