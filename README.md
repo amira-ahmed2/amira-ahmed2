@@ -3,7 +3,7 @@
  A passionate frontend developer from Egypt
 
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Angular and tailwindcss
 
 📫 How to reach amiraamin166@gmail.com
 
