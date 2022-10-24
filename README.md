@@ -3,7 +3,7 @@
  A passionate frontend developer from Egypt
 
 
-🌱 I’m currently learning Angular and tailwindcss
+🌱 I’m currently learning  tailwindcss
 
 📫 How to reach amiraamin166@gmail.com
 
@@ -11,4 +11,4 @@
 www.linkedin.com/in/amira-ahmed-amin
 
 ## Languages and Tools:
-html5 css3 sass bootstrap firebase git  javascript json mongodb react reactnative  typescript Angular
+html5 css3 sass bootstrap firebase git  javascript json mongodb react reactnative  typescript Angular Reactjs
