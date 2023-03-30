@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amira Ahmed 
+# 👋 Hi, I’m Amira Ahmed Amin
 
  A passionate frontend developer from Egypt
 
