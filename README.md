@@ -3,7 +3,7 @@
  A passionate frontend developer from Egypt
 
 
-🌱 I’m currently learning  Angular , Reactjs and  tailwindcss
+🌱 I’m currently studying in ALX Africa ( Software Engineer )
 
 📫 How to reach amiraamin166@gmail.com
 
