@@ -3,7 +3,7 @@
  A passionate frontend developer from Egypt
 
 
-🌱 I’m currently studying in ALX Africa ( Software Engineer )
+🌱 I’m currently studying in Frontend developer
 
 📫 How to reach amiraamin166@gmail.com
 
